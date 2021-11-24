@@ -11,7 +11,7 @@ export const homepageText = `
   <p>Inspired by Conte's hairline, some managers drafted older players to go for an early championship. Some saw Anish's height, deciding to rid any resemblence of short, and draft youth for the long-term. Others picked players more conflicting than Kurtz's personality.</p>
   <p>In the pursuit of glory, many trades will take place. Some will be weirder than Spencer two truly's deep, some will leave you Ma(j)d and fucking your pocket pussy for years. Only one certainty exists: negotiations will be more Jewish than Jordy. </p>
   <p>The mighty will fall and hitting the lottery in the draft will be necessary. It is easy to draft cool and calm like Billy(fuck this kids unroastable). But it is tempting to gamble like Grady, which may leave you sleeping on the couch for years.</p>
-  <p>Winning is the ultimate goal. You may get "lucky" once every 20 years like Perez, but as Dylan's cock has leanred from experience, it is a bloodbath to get a ring.</p>
+  <p>Winning is the ultimate goal. You may get "lucky" once every 20 years like Perez, but as Dylan's cock has learned from experience, it is a bloodbath to get a ring.</p>
  
 `;
 
