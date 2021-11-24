@@ -1,5 +1,4 @@
-/*
-<script context="module">
+<!-- <script context="module">
 	export const prerender = true;
 </script>
 
@@ -306,4 +305,5 @@
     <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
 
 </div>
-*/
+
+ -->
