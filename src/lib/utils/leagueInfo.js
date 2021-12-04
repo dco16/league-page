@@ -22,7 +22,7 @@ Winner: Grayspencer21</p>
 Winner: Gluck Gluck 900</p>
   <h6>GAME OF THE WEEK</h6>
   <p>keving44 vs The Beef Empire</p>
-  <p>Game of the Week Prediction: <link>https://www.random.org/</link></p>
+  <p>Game of the Week Prediction: <Link href="http://google.com" external>Google</Link></p>
  
 `;
 
