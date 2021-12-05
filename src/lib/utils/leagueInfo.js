@@ -7,22 +7,16 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <h3> Week 13: The Tiananmen Square of the Playoff Race</h3>
-  <p>Heading into the week, we’ve seen a shift in standings since the middle of the season. 2 Patts 1 Kupp has dominated for the majority of the season. Not far behind is Burrowing in that coochie and The Beef Empire. Below those three squads is where the playoff conversation gets interesting. Gluck Gluck 9000 and grayspencer21 (change your username bro) are tied up at 7-5. Grayspencer21 has fallen off the bandwagon a little since the middle of the season where he was bouncing between the number 3 and 4 spot. Gluck Gluck 9000 is on a hot streak recently with 4 wins over the top 3 teams to put him at 7-5. That being said, both those squads are only one game ahead of keving44. </p>
-  <p>Still in the playoff hunt is Still: Vol.1, Cee Deez Nutz and Majd. These three squads are gonna need big wins this week to keep their playoff hopes alive. Still Bill: Vol.1 is up against Gluck Gluck 9000 who’s projected at a 71% chance of taking the W. Both squads strong at wide receiver and weak at running back, the matchup might come down to who’s RB2 outruns the other. Gluck Gluck 9000 has Devin Singletary while Still Bill: vol.1 has Boston Scott. Boston Scott questionable with (illness) is gonna need to be in full strength if Still Bill wants to complete this week. The next close matchup is Majd vs Anish. Majd is projected to take the win at 55%. Majd needs a win here to stay in the playoff race. He could improve his chances if he started his second quarterback. I guess we will find out. This matchup could also come down to receiver play. With D.K Metcalf limited in practice and Josh Jacobs on the injury report, it will be interesting to see if these guys go full throttle come Sunday. Lastly, we have the matchup of the week between Kevin44 and The Beef Empire. A win for Kevin44 could secure his playoff hopes this week. To get that win he’s gonna have to go through Joe Mixon and The Beef of Johnson. This game might just come down to the Flexes and we will see if The Beefs show up or not. Keep a close eye on this game as it also affects the playoff bye situation. With Burrowing in that coochie ahead of The Beef by a significant FPTS count, The Beef needs a win this week to stay in the first-round bye conversation. That being said if Cuba doesn’t burrow deep into some coochie this week and  Cees Deez Nutz slap him in the face with an upset, then the door to the first-round bye is wide open. The outcome of this week will be a huge factor in the playoff picture that is shaping up to be an absolute thriller. </p>
-  <h6>Game Predictions:</h6>
-  <p>Cee Deez Nuts vs 2 Patts 1 Kupp Winner: 2 Patts 1 Kupp</p>
-  <p>Pellegrino vs Burrowing in that Coochie
-Winner: That Coochie</p>
-  <p>Team Anish vs Majd:
-Winner: Team Anish</p>
-  <p>El Jefe vs Grayspencer21
-Winner: Grayspencer21</p>
-<p>Still Bill: Vol.1 vs Gluck Gluck 900
-Winner: Gluck Gluck 900</p>
-  <h6>GAME OF THE WEEK</h6>
-  <p>keving44 vs The Beef Empire</p>
-  <p>Game of the Week Prediction: <Link>https://youtu.be/mEzzjl68BHU</Link></p>
+  <p>The confidence of the Founders of <b>The Constantine Cup</b> was based upon a belief that the principles which they professed and the ideal of the Dynasty League which they sought were but imperfectly realized in the organzizations by which they were surrounded.</p>
+<p>The standard with which the Dynasty League started was declared by <i>Dylan R. Collin</i> to be that of admitting no man to membership in <b>The Constantine Cup<b/> who is not believed to be:</p>
+
+<p>An Absolute Scoundrel...<br/>
+Who is Smarter than a Taco...<br/>
+With Ambition to Win...<br/>
+A Congenial Trade Partner...<br/>
+Possessed of Dirty Intention...<br/>
+Having a High Scoring Team <i>and</i><br/>
+A Deep, Deep Desire to Dominate</p>
  
 `;
 
