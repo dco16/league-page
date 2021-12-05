@@ -8,7 +8,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 /*   STEP 2   */
 export const homepageText = `
   <p>The confidence of the Founders of <b>The Constantine Cup</b> was based upon a belief that the principles which they professed and the ideal of the Dynasty League which they sought were but imperfectly realized in the organzizations by which they were surrounded.</p>
-<p>The standard with which the Dynasty League started was declared by <i>Dylan R. Collin</i> to be that of admitting no man to membership in <b>The Constantine Cup<b/> who is not believed to be:</p>
+<p>The standard with which the Dynasty League started was declared by <i>Dylan R. Collin</i> to be that of admitting no man to membership in <b>The Constantine Cup</b> who is not believed to be:</p>
 
 <p>An Absolute Scoundrel...<br/>
 Who is Smarter than a Taco...<br/>
